@@ -1,4 +1,4 @@
-# 🚀 AtliQ Hardwares – SQL Business Analysis Project  
+# 🚀 Atliq Hardwares Ad-Hoc Insights for Management Using SQL 
 
 📌 Project Overview  
 This project focuses on solving **10 ad-hoc business requests** using SQL to generate actionable insights for *AtliQ Hardwares*, a computer hardware company leveraging data-driven strategies for growth.  
