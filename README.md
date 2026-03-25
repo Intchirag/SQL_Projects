@@ -31,15 +31,6 @@ To solve this, I analyzed business data and answered **10 real-world business qu
 
 ---
 
-📸 Project Screenshots (PPT)
-
-![Slide 1](Home.png)
-![Slide 2](1st_Request.png)  
-![Slide 3](2nd_Request.png)
-![Slide 3](3rd_Request.png) 
-
----
-
 💡 Learnings  
 - Translated business problems into SQL queries  
 - Extracted meaningful insights from raw data  
@@ -50,3 +41,19 @@ To solve this, I analyzed business data and answered **10 real-world business qu
 
 🔗 Portfolio  
 👉 https://codebasics.io/portfolio/Chirag-Pacheria
+
+---
+
+📸 Project Screenshots (PPT)
+
+![Slide 1](Home.png)
+![Slide 2](1st_Request.png)  
+![Slide 3](2nd_Request.png)
+![Slide 3](3rd_Request.png)
+![Slide 2](4th_Request.png)  
+![Slide 3](5th_Request.png)
+![Slide 3](6th_Request.png)
+![Slide 2](7th_Request.png)  
+![Slide 3](8th_Request.png)
+![Slide 3](9th_Request.png)
+![Slide 3](10th_Request.png)
